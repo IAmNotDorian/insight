@@ -43,10 +43,9 @@
     "front-end"
   ],
   "scripts": {
-    "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/insight-bitcore-api"
+    "start": "node node_modules/.bin/insight-bitcore-api"
   },
   "dependencies": {
-    "//": "insight-bitcore-api: >0.2.10",
     "insight-bitcore-api": "git://github.com/OrphanedGland/insight-api.git"
   },
   "devDependencies": {
