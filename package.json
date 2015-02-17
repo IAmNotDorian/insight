@@ -43,7 +43,7 @@
     "front-end"
   ],
   "scripts": {
-    "start": "node node_modules/.bin/insight-bitcore-api"
+    "start": "node_modules/.bin/insight-bitcore-api.cmd"
   },
   "dependencies": {
     "insight-bitcore-api": "git://github.com/OrphanedGland/insight-api.git"
