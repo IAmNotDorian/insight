@@ -1,6 +1,10 @@
 # *insight* (Windows 8.1)
 
-Fork of insight for use in Windows 8.1
+Fork of insight for use in Windows 8.1.
+
+Note that configuration settings have been moved from environment variables to config.json in the insight-api folder.
+
+In the unlikely event of a donation: 1LrqUa5maiA3CaazmAXss6CNPvRMmiJaAs
 
 # *insight*
 
